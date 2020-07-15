@@ -1,6 +1,6 @@
 # ik-fib
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://circleci.com/docs/) [![Last Commit](https://img.shields.io/github/last-commit/ik11235/ik11235?style=flat-square)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://circleci.com/docs/) ![Last Commit](https://img.shields.io/github/last-commit/ik11235/ik11235?style=flat-square)
 
 
 ## About
