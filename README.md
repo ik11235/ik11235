@@ -8,10 +8,10 @@
 |key|value|
 |---|-----|
 |Blog|https://ik-fib.com|
-|Twitter|https://twitter.com/ik11235|
-|GitHub|https://github.com/ik11235|
-|Qiita|http://qiita.com/ik-fib|
-|SlideShare|http://slideshare.com/ik-fib|
+|![](http://www.google.com/s2/favicons?domain=twitter.com)Twitter|https://twitter.com/ik11235|
+|![](http://www.google.com/s2/favicons?domain=github.co.jp)GitHub|https://github.com/ik11235|
+|![](http://www.google.com/s2/favicons?domain=qiita.com)Qiita|http://qiita.com/ik-fib|
+|![](http://www.google.com/s2/favicons?domain=slideshare.com)SlideShare|http://slideshare.com/ik-fib|
 
 <!--
 **ik11235/ik11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
