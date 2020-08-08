@@ -13,6 +13,10 @@
 |![](http://www.google.com/s2/favicons?domain=qiita.com)Qiita|https://qiita.com/ik-fib|
 |![](http://www.google.com/s2/favicons?domain=slideshare.com)SlideShare|https://www.slideshare.net/ik-fib|
 
+## GitHub Stats
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ik11235&show_icons=true)
+
 <!--
 **ik11235/ik11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
