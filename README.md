@@ -8,7 +8,8 @@
 |key|value|
 |---|-----|
 |Blog|https://ik-fib.com|
-|![](http://www.google.com/s2/favicons?domain=twitter.com)Twitter|https://twitter.com/ik11235|
+|![](http://www.google.com/s2/favicons?domain=bsky.app)Bluesky|https://bsky.app/profile/ik-fib.com|
+|𝕏 (Twitter)|https://twitter.com/ik11235|
 |![](http://www.google.com/s2/favicons?domain=github.co.jp)GitHub|https://github.com/ik11235|
 |![](http://www.google.com/s2/favicons?domain=qiita.com)Qiita|https://qiita.com/ik-fib|
 |![](http://www.google.com/s2/favicons?domain=zenn.dev)Zenn|https://zenn.dev/ik11235|
