@@ -1,5 +1,8 @@
 # ik-fib
 
+- 🛠️ Web engineer, mainly working with **Ruby** & **Docker**
+- 📝 Writing technical articles in Japanese on Zenn / Qiita / Blog
+
 ![Last Commit](https://img.shields.io/github/last-commit/ik11235/ik11235?style=flat-square)
 
 
@@ -14,6 +17,21 @@
 [![SlideShare](https://img.shields.io/badge/SlideShare-0B4CB4?style=for-the-badge&logo=slideshare&logoColor=white)](https://www.slideshare.net/ik-fib)
 [![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ik11235)
 [![Amazon WishList](https://img.shields.io/badge/Amazon%20WishList-FF9900?style=for-the-badge&logoColor=white)](https://www.amazon.jp/hz/wishlist/ls/18Q4IYUHBAFNC)
+
+## Tech Stack
+
+<!-- 公開リポジトリの主要言語ベース。実態に合わせて自由に追加・削除してOK -->
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 📝 Latest Articles
+
+<!-- .github/workflows/blog-post-workflow.yml が Zenn / Qiita / Blog の RSS から自動更新（外部ホスト非依存） -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
 
