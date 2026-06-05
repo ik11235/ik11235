@@ -12,7 +12,9 @@ permissions:
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    # Node.js アクション + 軽量な RSS 取得/README 更新のみなので、
+    # 低コストな ubuntu-slim(1 vCPU) で十分（Docker 非依存）。
+    runs-on: ubuntu-slim
     steps:
       - name: Checkout
         uses: actions/checkout@v4

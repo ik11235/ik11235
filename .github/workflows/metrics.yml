@@ -12,6 +12,8 @@ permissions:
 
 jobs:
   github-metrics:
+    # metrics は内部で Docker イメージを実行するため、Docker 非対応の
+    # ubuntu-slim は使えない。フル VM の ubuntu-latest を使う。
     runs-on: ubuntu-latest
     steps:
       - name: Generate metrics
