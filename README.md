@@ -1,10 +1,9 @@
 # ik-fib
 
-- 🛠️ Web engineer, mainly working with **Ruby** & **Docker**
+- 🛠️ Web engineer.
 - 📝 Writing technical articles in Japanese on Zenn / Qiita / Blog
 
 ![Last Commit](https://img.shields.io/github/last-commit/ik11235/ik11235?style=flat-square)
-
 
 ## About
 
@@ -21,10 +20,11 @@
 ## Tech Stack
 
 <!-- 公開リポジトリの主要言語ベース。実態に合わせて自由に追加・削除してOK -->
+
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Server-side Kotlin](https://img.shields.io/badge/Server--side%20Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## 📝 Latest Articles
@@ -36,8 +36,8 @@
 ## GitHub Stats
 
 <!-- .github/workflows/metrics.yml が生成・コミットする SVG を参照（外部ホスト非依存） -->
-![Metrics](./github-metrics.svg)
 
+![Metrics](./github-metrics.svg)
 
 <!--
 **ik11235/ik11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
