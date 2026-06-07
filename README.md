@@ -32,12 +32,13 @@
 ## 📝 Latest Articles
 
 <!-- .github/workflows/blog-post-workflow.yml が Zenn / Qiita / Blog の RSS から自動更新（外部ホスト非依存） -->
-<!-- BLOG-POST-LIST:START -->- [GPi Caseの拡張キットGPiMateのざっくりレビュー](https://ik-fib.com/2021/05/gpimate/?utm_source=rss&utm_medium=rss&utm_campaign=gpimate) <sub>(2021-00-06)</sub>
-- [入院した話](https://ik-fib.com/2021/04/hospitalization/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalization) <sub>(2021-59-29)</sub>
-- [Android 11で追加されたワイヤレスデバッグが便利だった](https://zenn.dev/ik11235/articles/android-wireless-debug) <sub>(2020-45-11)</sub>
-- [Essential Phone&lpar;PH-1&rpar;をAndroid 11にアップデートする](https://zenn.dev/ik11235/articles/essential-phone-update-android11) <sub>(2020-21-21)</sub>
-- [zennのローカルプレビューを開けるDocker image作成しました](https://zenn.dev/ik11235/articles/zenn-preview-docker) <sub>(2020-02-18)</sub>
-- [ゲームボーイ風Raspberry Pi Zeroケース「GPi Case」買った](https://ik-fib.com/2020/08/gpi-case/?utm_source=rss&utm_medium=rss&utm_campaign=gpi-case) <sub>(2020-35-10)</sub>
+<!-- BLOG-POST-LIST:START -->
+- [GPi Caseの拡張キットGPiMateのざっくりレビュー](https://ik-fib.com/2021/05/gpimate/?utm_source=rss&utm_medium=rss&utm_campaign=gpimate) <sub>(2021-05-06)</sub>
+- [入院した話](https://ik-fib.com/2021/04/hospitalization/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalization) <sub>(2021-04-29)</sub>
+- [Android 11で追加されたワイヤレスデバッグが便利だった](https://zenn.dev/ik11235/articles/android-wireless-debug) <sub>(2020-10-11)</sub>
+- [Essential Phone&lpar;PH-1&rpar;をAndroid 11にアップデートする](https://zenn.dev/ik11235/articles/essential-phone-update-android11) <sub>(2020-09-21)</sub>
+- [zennのローカルプレビューを開けるDocker image作成しました](https://zenn.dev/ik11235/articles/zenn-preview-docker) <sub>(2020-09-18)</sub>
+- [ゲームボーイ風Raspberry Pi Zeroケース「GPi Case」買った](https://ik-fib.com/2020/08/gpi-case/?utm_source=rss&utm_medium=rss&utm_campaign=gpi-case) <sub>(2020-08-10)</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats

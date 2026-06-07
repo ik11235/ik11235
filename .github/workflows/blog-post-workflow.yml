@@ -25,6 +25,9 @@ jobs:
           # Zenn / Qiita / 個人ブログ(WordPress) の RSS を統合
           feed_list: "https://zenn.dev/ik11235/feed,https://qiita.com/ik-fib/feed.atom,https://ik-fib.com/feed/"
           max_post_count: 6
-          date_format: "yyyy-MM-dd"
-          # README の <!-- BLOG-POST-LIST:START --> / END マーカー間に書き込む
-          template: "- [$title]($url) <sub>($date)</sub>$newline"
+          # date_format は node-dateformat 形式（mm=月, dd=日）。
+          # 大文字 MM は「分」を意味するため yyyy-MM-dd は誤り
+          date_format: "yyyy-mm-dd"
+          # START/END マーカー間に書き込む。先頭の $newline で
+          # START マーカーと先頭行がくっつくのを防ぐ
+          template: "$newline- [$title]($url) <sub>($date)</sub>"
