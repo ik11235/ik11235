@@ -38,8 +38,7 @@
 - [Android 11で追加されたワイヤレスデバッグが便利だった](https://zenn.dev/ik11235/articles/android-wireless-debug) <sub>(2020-10-11)</sub>
 - [Essential Phone&lpar;PH-1&rpar;をAndroid 11にアップデートする](https://zenn.dev/ik11235/articles/essential-phone-update-android11) <sub>(2020-09-21)</sub>
 - [zennのローカルプレビューを開けるDocker image作成しました](https://zenn.dev/ik11235/articles/zenn-preview-docker) <sub>(2020-09-18)</sub>
-- [ゲームボーイ風Raspberry Pi Zeroケース「GPi Case」買った](https://ik-fib.com/2020/08/gpi-case/?utm_source=rss&utm_medium=rss&utm_campaign=gpi-case) <sub>(2020-08-10)</sub>
-<!-- BLOG-POST-LIST:END -->
+- [ゲームボーイ風Raspberry Pi Zeroケース「GPi Case」買った](https://ik-fib.com/2020/08/gpi-case/?utm_source=rss&utm_medium=rss&utm_campaign=gpi-case) <sub>(2020-08-10)</sub><!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
 
