@@ -1,0 +1,30 @@
+name: Latest Articles
+
+on:
+  # 6 時間ごとに最新記事を取得して README を更新
+  schedule:
+    - cron: "0 */6 * * *"
+  # Actions タブから手動実行する用（初回反映はこれが早い）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    # Node.js アクション + 軽量な RSS 取得/README 更新のみなので、
+    # 低コストな ubuntu-slim(1 vCPU) で十分（Docker 非依存）。
+    runs-on: ubuntu-slim
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Zenn / Qiita / 個人ブログ(WordPress) の RSS を統合
+          feed_list: "https://zenn.dev/ik11235/feed,https://qiita.com/ik-fib/feed.atom,https://ik-fib.com/feed/"
+          max_post_count: 6
+          date_format: "yyyy-MM-dd"
+          # README の <!-- BLOG-POST-LIST:START --> / END マーカー間に書き込む
+          template: "- [$title]($url) <sub>($date)</sub>$newline"

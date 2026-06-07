@@ -1,7 +1,9 @@
 # ik-fib
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://circleci.com/docs/) ![Last Commit](https://img.shields.io/github/last-commit/ik11235/ik11235?style=flat-square)
+- 🛠️ Web engineer.
+- 📝 Writing technical articles in Japanese on Zenn / Qiita / Blog
 
+![Last Commit](https://img.shields.io/github/last-commit/ik11235/ik11235?style=flat-square)
 
 ## About
 
@@ -17,14 +19,27 @@
 |![](http://www.google.com/s2/favicons?domain=keybase.io)Keybase|https://keybase.io/ik11235|
 |![](http://www.google.com/s2/favicons?domain=amazon.jp)Amazon WishList|https://www.amazon.jp/hz/wishlist/ls/18Q4IYUHBAFNC|
 
+## Tech Stack
+
+<!-- 公開リポジトリの主要言語ベース。実態に合わせて自由に追加・削除してOK -->
+
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Server-side Kotlin](https://img.shields.io/badge/Server--side%20Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 📝 Latest Articles
+
+<!-- .github/workflows/blog-post-workflow.yml が Zenn / Qiita / Blog の RSS から自動更新（外部ホスト非依存） -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## GitHub Stats
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ik11235&show_icons=true)
+<!-- .github/workflows/metrics.yml が生成・コミットする SVG を参照（外部ホスト非依存） -->
 
-## trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ik11235)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Metrics](./github-metrics.svg)
 
 <!--
 **ik11235/ik11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
