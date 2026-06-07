@@ -7,17 +7,17 @@
 
 ## About
 
-<!-- 各リンクの一言説明は実態に合わせて自由に調整してOK -->
-
-- [![Blog](https://img.shields.io/badge/Blog-ik--fib.com-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://ik-fib.com) — 技術ブログ（個人運営）
-- [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ik-fib.com) — メインSNS・日々の発信
-- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ik11235) — 旧Twitter
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ik11235) — コード・OSS活動
-- [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/ik-fib) — 技術記事（日本語）
-- [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/ik11235) — 技術記事（日本語）
-- [![SlideShare](https://img.shields.io/badge/SlideShare-0B4CB4?style=for-the-badge&logo=slideshare&logoColor=white)](https://www.slideshare.net/ik-fib) — 登壇スライド
-- [![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ik11235) — 暗号鍵・本人証明
-- [![Amazon WishList](https://img.shields.io/badge/Amazon%20WishList-FF9900?style=for-the-badge&logoColor=white)](https://www.amazon.jp/hz/wishlist/ls/18Q4IYUHBAFNC) — ほしい物リスト
+|key|value|
+|---|-----|
+|Blog|https://ik-fib.com|
+|![](http://www.google.com/s2/favicons?domain=bsky.app)Bluesky|https://bsky.app/profile/ik-fib.com|
+|𝕏 (Twitter)|https://twitter.com/ik11235|
+|![](http://www.google.com/s2/favicons?domain=github.co.jp)GitHub|https://github.com/ik11235|
+|![](http://www.google.com/s2/favicons?domain=qiita.com)Qiita|https://qiita.com/ik-fib|
+|![](http://www.google.com/s2/favicons?domain=zenn.dev)Zenn|https://zenn.dev/ik11235|
+|![](http://www.google.com/s2/favicons?domain=slideshare.com)SlideShare|https://www.slideshare.net/ik-fib|
+|![](http://www.google.com/s2/favicons?domain=keybase.io)Keybase|https://keybase.io/ik11235|
+|![](http://www.google.com/s2/favicons?domain=amazon.jp)Amazon WishList|https://www.amazon.jp/hz/wishlist/ls/18Q4IYUHBAFNC|
 
 ## Tech Stack
 
