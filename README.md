@@ -35,10 +35,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Android 11で追加されたワイヤレスデバッグが便利だった](https://zenn.dev/ik11235/articles/android-wireless-debug) <sub>(2020-10-11)</sub>
 - [Essential Phone&lpar;PH-1&rpar;をAndroid 11にアップデートする](https://zenn.dev/ik11235/articles/essential-phone-update-android11) <sub>(2020-09-21)</sub>
-- [zennのローカルプレビューを開けるDocker image作成しました](https://zenn.dev/ik11235/articles/zenn-preview-docker) <sub>(2020-09-18)</sub>
-- [同じgit-hooksをリポジトリ個別指定で使えるようにするスクリプトを書いた](https://qiita.com/ik-fib/items/e3d8d6a4941d42e2590f) <sub>(2020-02-17)</sub>
-- [globalなgit-hooksを設定して、すべてのリポジトリで共有のhooksを使う](https://qiita.com/ik-fib/items/55edad2e5f5f06b3ddd1) <sub>(2020-02-16)</sub>
-- [Selemiumで認証が必要な画像を保存する&lpar;Ruby版&rpar;](https://qiita.com/ik-fib/items/3ca40550a1d659c8edc5) <sub>(2019-08-12)</sub><!-- BLOG-POST-LIST:END -->
+- [zennのローカルプレビューを開けるDocker image作成しました](https://zenn.dev/ik11235/articles/zenn-preview-docker) <sub>(2020-09-18)</sub><!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
 
