@@ -33,9 +33,12 @@
 
 <!-- .github/workflows/blog-post-workflow.yml が Zenn / Qiita / Blog の RSS から自動更新（外部ホスト非依存） -->
 <!-- BLOG-POST-LIST:START -->
+- [オープンソースのAMS「BMCU」を試してみたけど、素人にはおすすめできない4つの理由](https://ik-fib.com/2026/07/ams-bmcu-review/?utm_source=rss&utm_medium=rss&utm_campaign=ams-bmcu-review) <sub>(2026-07-05)</sub>
+- [3Dプリンタ（Bambu A1 mini）を買ったら沼だった話](https://ik-fib.com/2026/06/bambu-a1-mini-review/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-a1-mini-review) <sub>(2026-06-27)</sub>
+- [GPi Caseの拡張キットGPiMateのざっくりレビュー](https://ik-fib.com/2021/05/gpimate/?utm_source=rss&utm_medium=rss&utm_campaign=gpimate) <sub>(2021-05-06)</sub>
+- [入院した話](https://ik-fib.com/2021/04/hospitalization/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalization) <sub>(2021-04-29)</sub>
 - [Android 11で追加されたワイヤレスデバッグが便利だった](https://zenn.dev/ik11235/articles/android-wireless-debug) <sub>(2020-10-11)</sub>
-- [Essential Phone&lpar;PH-1&rpar;をAndroid 11にアップデートする](https://zenn.dev/ik11235/articles/essential-phone-update-android11) <sub>(2020-09-21)</sub>
-- [zennのローカルプレビューを開けるDocker image作成しました](https://zenn.dev/ik11235/articles/zenn-preview-docker) <sub>(2020-09-18)</sub><!-- BLOG-POST-LIST:END -->
+- [Essential Phone&lpar;PH-1&rpar;をAndroid 11にアップデートする](https://zenn.dev/ik11235/articles/essential-phone-update-android11) <sub>(2020-09-21)</sub><!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
 
