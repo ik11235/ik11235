@@ -33,12 +33,12 @@
 
 <!-- .github/workflows/blog-post-workflow.yml が Zenn / Qiita / Blog の RSS から自動更新（外部ホスト非依存） -->
 <!-- BLOG-POST-LIST:START -->
+- [このブログをWordPressからAstroに移行した話](https://ik-fib.com/posts/wordpress-to-astro-migration/) <sub>(2026-07-17)</sub>
 - [オープンソースのAMS「BMCU」を試してみたけど、素人にはおすすめできない4つの理由](https://ik-fib.com/posts/ams-bmcu-review/) <sub>(2026-07-05)</sub>
 - [3Dプリンタ（Bambu A1 mini）を買ったら沼だった話](https://ik-fib.com/posts/bambu-a1-mini-review/) <sub>(2026-06-27)</sub>
 - [GPi Caseの拡張キットGPiMateのざっくりレビュー](https://ik-fib.com/posts/gpimate/) <sub>(2021-05-06)</sub>
 - [入院した話](https://ik-fib.com/posts/hospitalization/) <sub>(2021-04-29)</sub>
-- [Android 11で追加されたワイヤレスデバッグが便利だった](https://zenn.dev/ik11235/articles/android-wireless-debug) <sub>(2020-10-11)</sub>
-- [Essential Phone&lpar;PH-1&rpar;をAndroid 11にアップデートする](https://zenn.dev/ik11235/articles/essential-phone-update-android11) <sub>(2020-09-21)</sub><!-- BLOG-POST-LIST:END -->
+- [Android 11で追加されたワイヤレスデバッグが便利だった](https://zenn.dev/ik11235/articles/android-wireless-debug) <sub>(2020-10-11)</sub><!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
 
