@@ -33,12 +33,12 @@
 
 <!-- .github/workflows/blog-post-workflow.yml が Zenn / Qiita / Blog の RSS から自動更新（外部ホスト非依存） -->
 <!-- BLOG-POST-LIST:START -->
+- [Zennの画像貼り付けはVS Code標準機能で十分だった。Paste Imageを選ばなかった理由](https://zenn.dev/ik11235/articles/zenn-vscode-image-paste) <sub>(2026-08-19)</sub>
+- [ポート開放なしで自宅のClaude Codeへ。Paseoを2か月使った](https://zenn.dev/ik11235/articles/paseo-remote-coding-agents) <sub>(2026-08-19)</sub>
 - [AIエージェントにブログを0ベース監査させたら、PRが43本できた話](https://ik-fib.com/posts/astro-blog-audit-with-ai/) <sub>(2026-07-20)</sub>
 - [このブログをWordPressからAstroに移行した話](https://ik-fib.com/posts/wordpress-to-astro-migration/) <sub>(2026-07-17)</sub>
 - [オープンソースのAMS「BMCU」を試してみたけど、素人にはおすすめできない4つの理由](https://ik-fib.com/posts/ams-bmcu-review/) <sub>(2026-07-05)</sub>
-- [3Dプリンタ（Bambu A1 mini）を買ったら沼だった話](https://ik-fib.com/posts/bambu-a1-mini-review/) <sub>(2026-06-27)</sub>
-- [GPi Caseの拡張キットGPiMateのざっくりレビュー](https://ik-fib.com/posts/gpimate/) <sub>(2021-05-06)</sub>
-- [入院した話](https://ik-fib.com/posts/hospitalization/) <sub>(2021-04-29)</sub><!-- BLOG-POST-LIST:END -->
+- [3Dプリンタ（Bambu A1 mini）を買ったら沼だった話](https://ik-fib.com/posts/bambu-a1-mini-review/) <sub>(2026-06-27)</sub><!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
 
