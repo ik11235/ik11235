@@ -33,12 +33,12 @@
 
 <!-- .github/workflows/blog-post-workflow.yml が Zenn / Qiita / Blog の RSS から自動更新（外部ホスト非依存） -->
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actionsのキャッシュがあふれるので、不要になった2種類を自動削除する](https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup) <sub>(2026-10-06)</sub>
 - [文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか](https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage) <sub>(2026-09-25)</sub>
 - [キャッシュを入れても速くならなかった ── 毎回タイムアウトする脆弱性スキャンCIを2分にするまで](https://zenn.dev/yesodco/articles/yesod-owasp-dependency-check-ci-speedup) <sub>(2026-09-07)</sub>
 - [Zennの画像貼り付けはVS Code標準機能で十分だった。Paste Imageを選ばなかった理由](https://zenn.dev/ik11235/articles/zenn-vscode-image-paste) <sub>(2026-08-19)</sub>
 - [ポート開放なしで自宅のClaude Codeへ。Paseoを2か月使った](https://zenn.dev/ik11235/articles/paseo-remote-coding-agents) <sub>(2026-08-19)</sub>
-- [AIエージェントにブログを0ベース監査させたら、PRが43本できた話](https://ik-fib.com/posts/astro-blog-audit-with-ai/) <sub>(2026-07-20)</sub>
-- [このブログをWordPressからAstroに移行した話](https://ik-fib.com/posts/wordpress-to-astro-migration/) <sub>(2026-07-17)</sub><!-- BLOG-POST-LIST:END -->
+- [AIエージェントにブログを0ベース監査させたら、PRが43本できた話](https://ik-fib.com/posts/astro-blog-audit-with-ai/) <sub>(2026-07-20)</sub><!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
 
