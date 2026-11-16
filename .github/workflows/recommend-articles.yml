@@ -1,0 +1,44 @@
+name: Recommended Articles
+
+on:
+  # いいね・はてブ数は急には変わらないので 1 日 1 回（毎日 00:30 JST）で十分。
+  # Latest Articles 更新直後に新着がおすすめと重複して見えることがあるが、次回実行で解消される
+  schedule:
+    - cron: "30 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    # 依存パッケージなしの Node スクリプトと API 呼び出しだけなので ubuntu-slim で十分
+    runs-on: ubuntu-slim
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Update recommended articles
+        run: node scripts/recommend-articles.mjs
+
+      - name: Commit and push
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update recommended articles - [Skip GitHub Action]" README.md
+          # 他のワークフローが先に README を更新していても push できるよう rebase してから push
+          git pull --rebase
+          git push
