@@ -40,6 +40,17 @@
 - [キャッシュを入れても速くならなかった ── 毎回タイムアウトする脆弱性スキャンCIを2分にするまで](https://zenn.dev/yesodco/articles/yesod-owasp-dependency-check-ci-speedup) <sub>(2026-09-07)</sub>
 - [Zennの画像貼り付けはVS Code標準機能で十分だった。Paste Imageを選ばなかった理由](https://zenn.dev/ik11235/articles/zenn-vscode-image-paste) <sub>(2026-08-19)</sub><!-- BLOG-POST-LIST:END -->
 
+## ⭐ Recommended Articles
+
+<!-- .github/workflows/recommend-articles.yml が、いいね・はてブ数と新しさからスコアを計算して自動更新（計算式は scripts/recommend-articles.mjs） -->
+<!-- RECOMMENDED:START -->
+- [多段SSHの設定を.ssh/configにまとめる](https://qiita.com/ik-fib/items/12e4fab4478e360a82a1) <sub>(Qiita · ❤️ 768 · B! 509)</sub>
+- [SlackのIncoming Webhooksを使い倒す](https://qiita.com/ik-fib/items/b4a502d173a22b3947a0) <sub>(Qiita · ❤️ 618 · B! 36)</sub>
+- [ポート開放なしで自宅のClaude Codeへ。Paseoを2か月使った](https://zenn.dev/ik11235/articles/paseo-remote-coding-agents) <sub>(Zenn · ❤️ 1 · B! 5)</sub>
+- [sshの活用法まとめ](https://qiita.com/ik-fib/items/0af46a19e3083bb0325e) <sub>(Qiita · ❤️ 181 · B! 15)</sub>
+- [Android 11で追加されたワイヤレスデバッグが便利だった](https://zenn.dev/ik11235/articles/android-wireless-debug) <sub>(Zenn · ❤️ 78 · B! 38)</sub>
+<!-- RECOMMENDED:END -->
+
 ## GitHub Stats
 
 <!-- .github/workflows/metrics.yml が生成・コミットする SVG を参照（外部ホスト非依存） -->
