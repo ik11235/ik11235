@@ -1,10 +1,10 @@
 name: Recommended Articles
 
 on:
-  # Latest Articles（毎時 0 分、6 時間ごと）の 30 分後に走らせ、
-  # Latest に新しく載った記事をおすすめから除外した状態に追従させる
+  # いいね・はてブ数は急には変わらないので 1 日 1 回（毎日 00:30 JST）で十分。
+  # Latest Articles 更新直後に新着がおすすめと重複して見えることがあるが、次回実行で解消される
   schedule:
-    - cron: "30 */6 * * *"
+    - cron: "30 15 * * *"
   workflow_dispatch:
 
 permissions:
