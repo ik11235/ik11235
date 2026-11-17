@@ -44,7 +44,7 @@
 
 <!-- .github/workflows/recommend-articles.yml が、いいね・はてブ数と新しさからスコアを計算して自動更新（計算式は scripts/recommend-articles.mjs） -->
 <!-- RECOMMENDED:START -->
-- [多段SSHの設定を.ssh/configにまとめる](https://qiita.com/ik-fib/items/12e4fab4478e360a82a1) <sub>(Qiita · ❤️ 768 · B! 509)</sub>
+- [多段SSHの設定を.ssh/configにまとめる](https://qiita.com/ik-fib/items/12e4fab4478e360a82a1) <sub>(Qiita · ❤️ 767 · B! 509)</sub>
 - [SlackのIncoming Webhooksを使い倒す](https://qiita.com/ik-fib/items/b4a502d173a22b3947a0) <sub>(Qiita · ❤️ 618 · B! 36)</sub>
 - [ポート開放なしで自宅のClaude Codeへ。Paseoを2か月使った](https://zenn.dev/ik11235/articles/paseo-remote-coding-agents) <sub>(Zenn · ❤️ 1 · B! 5)</sub>
 - [sshの活用法まとめ](https://qiita.com/ik-fib/items/0af46a19e3083bb0325e) <sub>(Qiita · ❤️ 181 · B! 15)</sub>
