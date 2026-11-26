@@ -33,12 +33,12 @@
 
 <!-- .github/workflows/blog-post-workflow.yml が Zenn / Qiita / Blog の RSS から自動更新（外部ホスト非依存） -->
 <!-- BLOG-POST-LIST:START -->
+- [令和の今、個人でFAXを送るには](https://ik-fib.com/posts/send-fax-without-fax-machine/) <sub>(2026-11-26)</sub>
 - [技術書典21に3Dプリンタ本でサークル参加しました](https://ik-fib.com/posts/techbookfest21/) <sub>(2026-11-25)</sub>
 - [転職ドラフトを使って転職先を決めたので振り返り](https://ik-fib.com/posts/job-draft-scout-2026/) <sub>(2026-11-24)</sub>
 - [GitHub rulesetのON/OFFで「マージ禁止期間」を作る](https://zenn.dev/yesodco/articles/yesod-github-ruleset-merge-freeze) <sub>(2026-11-10)</sub>
 - [whisperの文字起こしにJevで話者ラベルを付けようとしたら、Jevは要らなかった](https://zenn.dev/ik11235/articles/whisper-jev-speaker-label) <sub>(2026-10-12)</sub>
-- [GitHub Actionsのキャッシュがあふれるので、不要になった2種類を自動削除する](https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup) <sub>(2026-10-06)</sub>
-- [文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか](https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage) <sub>(2026-09-25)</sub><!-- BLOG-POST-LIST:END -->
+- [GitHub Actionsのキャッシュがあふれるので、不要になった2種類を自動削除する](https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup) <sub>(2026-10-06)</sub><!-- BLOG-POST-LIST:END -->
 
 ## ⭐ Recommended Articles
 
